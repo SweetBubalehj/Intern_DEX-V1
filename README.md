@@ -21,3 +21,5 @@ InternFactory.sol - contract of factory that can create multiple exchanges
 
 InternERC20.sol - contract of ERC20 token that Factory uses to give award for liquidity (staking)
 - Has ERC20 standarts + mint and adding to whitelist options
+
+![image](https://user-images.githubusercontent.com/53579504/186851048-7a293b97-77f0-4a9f-b09c-0a31acaae671.png)
